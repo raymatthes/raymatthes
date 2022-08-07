@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Ray Matthes
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science at Georgia Tech
-- 📫 Reach me at ray.matthes@gmail.com
+
+- Software developer with decades of experience in the computer industry specializing in design and
+implementation
+
+- Master of Science in Computer Science; Oracle Certified Associate Java SE Programmer (OCA); Oracle
+Certified Professional Java SE Programmer (OCPJP)
+
+- 📫 Reach me at ray.matthes@gmail.com, my [resume](https://raymatthes.github.io/resume/)
 
 <!---
 raymatthes/raymatthes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
